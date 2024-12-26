@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 </p>
 
 
-### Social Media
-<a href="https://www.linkedin.com/in/vialli-wong-06371094/" rel="nofollow"><img src="https://camo.githubusercontent.com/667c03468dae579c926cd7780ff8e0ad5abc1d9a79bb5bdfaaad6c297123814a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d4544434244463f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-EDCBDF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+### Social Media 
+<a href="https://www.linkedin.com/in/vialli-wong-06371094/" rel="nofollow"><img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/linkedin.svg" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-ddf4ff?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
