@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/restfulapi.svg">
 <img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/sql.svg">
 <img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/sqlloader.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/toad.svg"> 
 <img src="https://raw.githubusercontent.com/vialliw/vialliw/8e0dfa51bb059f1848dc49e678bc1e3578cb8c21/image/windows.svg">
 <img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/linux.svg">
 <img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/unix.svg">
