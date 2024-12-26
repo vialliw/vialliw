@@ -16,7 +16,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
+  <img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/python.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/pandas.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/numpy.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/r.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/git.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/OracleForms.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/oraclereports.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/bash.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/html5.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/java.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/javascript.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/jsp.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/oracledb.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/oracleapex.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/oracleaq.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/plsql.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/postman.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/restfulapi.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/sql.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/sqlloader.svg">
+<img src="https://raw.githubusercontent.com/vialliw/vialliw/8e0dfa51bb059f1848dc49e678bc1e3578cb8c21/image/windows.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/linux.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/unix.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/xml.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/xsd.svg">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/perl.svg">
+</p>
 
+
+
+003
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/35f6978b862c87cca6a7d8b19ea7586333617b4281b4148d8e3fcb1fadf601e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d4544434244463f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/35f6978b862c87cca6a7d8b19ea7586333617b4281b4148d8e3fcb1fadf601e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d4544434244463f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="Python" data-canonical-src="https://img.shields.io/badge/python-EDCBDF?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/974986349a65443047934bd4b0f17267f4290240a8c85a3d11d41a6a244f3452/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d4544434244463f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/974986349a65443047934bd4b0f17267f4290240a8c85a3d11d41a6a244f3452/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d4544434244463f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465" alt="Java" data-canonical-src="https://img.shields.io/badge/java-EDCBDF?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/816241f794ed5eba86d330a2853c825def1cb110ef8c530e032a320322d19ec9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d4544434244463f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/816241f794ed5eba86d330a2853c825def1cb110ef8c530e032a320322d19ec9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d4544434244463f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" alt="Windows" data-canonical-src="https://img.shields.io/badge/Windows-EDCBDF?style=for-the-badge&amp;logo=windows&amp;logoColor=white" style="max-width: 100%;"></a>
