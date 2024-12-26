@@ -16,33 +16,33 @@ Here are some ideas to get you started:
 -->
 ### Skills
 <p>
-  <img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/python.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/pandas.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/numpy.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/r.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/git.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/OracleForms.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/oraclereports.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/bash.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/html5.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/java.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/javascript.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/jsp.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/oracledb.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/oracleapex.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/oracleaq.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/plsql.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/postman.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/restfulapi.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/sql.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/sqlloader.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/toad.svg"> 
-<img src="https://raw.githubusercontent.com/vialliw/vialliw/8e0dfa51bb059f1848dc49e678bc1e3578cb8c21/image/windows.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/linux.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/unix.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/xml.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/xsd.svg">
-<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/perl.svg">
+  <img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/python.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/pandas.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/numpy.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/r.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/git.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/OracleForms.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/oraclereports.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/bash.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/html5.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/java.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/javascript.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/jsp.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/oracledb.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/oracleapex.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/oracleaq.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/plsql.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/postman.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/restfulapi.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/sql.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/sqlloader.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/toad.svg" class="no-click"> 
+<img src="https://raw.githubusercontent.com/vialliw/vialliw/8e0dfa51bb059f1848dc49e678bc1e3578cb8c21/image/windows.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/linux.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/unix.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/xml.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/xsd.svg" class="no-click">
+<img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/perl.svg" class="no-click">
 </p>
 
 ### Social Media 
