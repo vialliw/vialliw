@@ -1,7 +1,5 @@
 ## Vialli Wong
 Seasoned software engineer proficient in SDLC and DBA. Currently enhancing knowledge and skills in data science to prepare for a shift into this area.
-
-
 <!--
 **vialliw/vialliw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,7 +44,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/perl.svg">
 </p>
 
-
 ### Social Media 
-<a href="https://www.linkedin.com/in/vialli-wong-06371094/" rel="nofollow"><img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/linkedin.svg" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-ddf4ff?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-
+<p><a href="https://www.linkedin.com/in/vialli-wong-06371094/" rel="nofollow"><img src="https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/refs/heads/main/image/linkedin.svg" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-ddf4ff?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+</p>
